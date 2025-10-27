@@ -13,9 +13,16 @@ To run the application locally, follow these steps:
 
 npm run dev  
 
-# The app will be available at http://localhost:5173/ by default.
+## The app will be available at http://localhost:5173/ by default.
 
 # React + Vite
+
+Stack:
+- React v 19 
+- Tailwind CSS
+- Responsive design
+
+## Deployed on Vercel https://lp-react-weld.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
